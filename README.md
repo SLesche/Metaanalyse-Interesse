@@ -11,8 +11,7 @@ Forschungsfragen:
 ## Methoden:
 Puplikationszeitraum aus dem Studien gesucht wurden: 1991-2024
 Sprachen: Deutsch & Englisch
-![image](https://github.com/user-attachments/assets/877411df-759a-4fec-a551-089f3a876c1d)
-
+![image](https://github.com/user-attachments/assets/46c691e1-dd62-402f-beeb-dddf409ae135)
 
 ## Analyse & Ergebnisse:
 Von 19 eingeschlossenen Studien flossen insgesamt 88 Korrelationen ein. Um die Abhängigkeit von Korrelationen aus der gleichen Studie zu modellieren, wenden wir ein Multilevel-Modell an. Hierbei beschränken wir uns auf ein Random-Intercept Modell mit den zusätzlichen Prädiktoren Klassenstufe und Art der Leistungsmessung.
@@ -26,16 +25,23 @@ Funnel Plot:
 ![image](https://github.com/user-attachments/assets/f91fd4f7-91e9-4ec7-a03a-a175fa287369)
 
 ## Diskussion:
-### Schlussfolgerung
-Zusammenhang zwischen fachspezifischem Interesse und fachspezifische Schulleistung konnte repliziert werden (r = 0.25)
+### Schlussfolgerung:
+Zusammenhang zwischen fachspezifischem Interesse und
+fachspezifischer Schulleistung konnte repliziert werden
 
 ### Implikation:
-Interesse sollte in der Lehre gefördert werden, insbesondere in höheren Klassenstufen
+Interesse sollte in der Lehre gefördert werden; 
+insbesondere in höheren Klassenstufen
 
-### Limitation:
-- N wird überschätzt → Varianz unterschätzt → Präzision überschätzt (Stichprobengrößen der jeweiligen Korrelationen wurden anhand von der Gesamtstichprobengröße geschätzt)
-- keine Berücksichtigung von unterschiedlichen Messzeitpunkten
-
+### Limitationen:
+- Keine Berücksichtigung von unterschiedlichen Messzeitpunkten
+- Teilweise wurden Klassenstufen gemittelt, da keine genauen Daten vorlagen
+- N wird unterschätzt → Varianz überschätzt → Präzision unterschätzt
+- Korrelatives Design
+- Keine Kontrolle für Vorwissen und Intelligenz
+- Keine risk-of-bias und certainty-of-evidence Beurteilung
+- Unbekannte Interraterreliabilitäten für Suche und Kodierung der Studien
+- 
 ## Literaturverzeichnis:
 Schiefele, U., Krapp, A., & Schreyer, I. (1993). Metaanalyse des Zusammenhangs von Interesse und schulischer Leistung. Zeitschrift für Entwicklungspsychologie und Pädagogische Psychologie, 10(2), 120–148.
 
